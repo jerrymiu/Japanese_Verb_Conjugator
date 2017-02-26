@@ -16,7 +16,7 @@
     <h1>Japanese Verb Conjugator</h1>
     <h2>By: Jerry Miu</h2>
     <p>This is a simple Japanese verb conjugator deployed to Heroku. Written in Java, using the Spark Framework.</p>
-    <a type="button" class="btn btn-lg btn-primary" href="https://github.com/jerrymiu/"><span class="glyphicon glyphicon-download"></span> Source on GitHub</a>
+    <a type="button" class="btn btn-lg btn-primary" href="https://github.com/jerrymiu/Japanese_Verb_Conjugator"><span class="glyphicon glyphicon-download"></span> Source on GitHub</a>
   </div>
 </div>
 <div class="container">
